@@ -1,0 +1,132 @@
+{
+    "products": [
+    {
+        "id": "adidas-yoga-outfit",
+        "image": "image/products/product.jpeg",
+        "brand": "adidas",
+        "name": "Yoga outfit",
+        "price": "$88",
+        "rating": 5
+    },
+    {
+        "id": "nike-gym-outfit",
+        "image": "image/products/a.webp",
+        "brand": "nike",
+        "name": "Gym outfit",
+        "price": "$100",
+        "rating": 5
+    },
+    {
+        "id": "adidas-yoga-domet",
+        "image": "image/products/newwear.jpeg",
+        "brand": "adidas",
+        "name": "Yoga Domet",
+        "price": "$80",
+        "rating": 5
+    },
+    {
+        "id": "adidas-yoga-outfit-new",
+        "image": "image/products/outfit4.webp",
+        "brand": "adidas",
+        "name": "Yoga outfit New",
+        "price": "$68",
+        "rating": 5
+    },
+    {
+        "id": "champion-sneakers",
+        "image": "image/products/rabakali.jpeg",
+        "brand": "Champion",
+        "name": "Sneakers",
+        "price": "$88",
+        "rating": 5
+    },
+    {
+        "id": "lovely-costume-shoe",
+        "image": "image/products/raba.jpeg",
+        "brand": "Lovely",
+        "name": "Costume shoe",
+        "price": "$100",
+        "rating": 5
+    },
+    {
+        "id": "adidas-running-shoes",
+        "image": "image/products/mastershoe.png",
+        "brand": "adidas",
+        "name": "Running shoes",
+        "price": "$120",
+        "rating": 5
+    },
+    {
+        "id": "fashion-running-shoes",
+        "image": "image/products/fashionshoe.jpg",
+        "brand": "Fashion",
+        "name": "Running shoes",
+        "price": "$158",
+        "rating": 5
+    },
+    {
+        "id": "adidas-yoga-outfit-special",
+        "image": "image/newArrival/images.jpeg",
+        "brand": "adidas",
+        "name": "Yoga outfit Special",
+        "price": "$88",
+        "rating": 5
+    },
+    {
+        "id": "nike-gym-outfit-new",
+        "image": "image/newArrival/both.jpeg",
+        "brand": "nike",
+        "name": "Gym outfit New",
+        "price": "$100",
+        "rating": 5
+    },
+    {
+        "id": "adidas-yoga-domet-new",
+        "image": "image/newArrival/zulia.jpeg",
+        "brand": "adidas",
+        "name": "Yoga Domet New",
+        "price": "$80",
+        "rating": 5
+    },
+    {
+        "id": "sanif-sports",
+        "image": "image/newArrival/sposrtsSneakers.jpg",
+        "brand": "Sports",
+        "name": "SANIF",
+        "price": "$88",
+        "rating": 5
+    },
+    {
+        "id": "fashion-sneakers",
+        "image": "image/newArrival/sneakers.webp",
+        "brand": "Fashion",
+        "name": "Sneakers",
+        "price": "$98",
+        "rating": 5
+    },
+    {
+        "id": "nike-training",
+        "image": "image/newArrival/trainingshoe.webp",
+        "brand": "Nike",
+        "name": "Training",
+        "price": "$50",
+        "rating": 5
+    },
+    {
+        "id": "tff-sneakers",
+        "image": "image/newArrival/newshoes.jpeg",
+        "brand": "TFF",
+        "name": "Sneakers",
+        "price": "$70",
+        "rating": 5
+    },
+    {
+        "id": "champion-sneakers-new",
+        "image": "image/newArrival/sne.jpeg",
+        "brand": "Champion",
+        "name": "Sneakers New",
+        "price": "$88",
+        "rating": 5
+    }
+    ]
+}

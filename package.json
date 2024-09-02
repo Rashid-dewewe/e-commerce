@@ -1,0 +1,20 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  
+    "scripts": {
+      "start": "json-server --watch db.json --port 3000",
+      "start:port5500": "json-server --watch db.json --port 5500",
+      "start:port80": "json-server --watch db.json --port 80"
+    },
+  
+  
+  "keywords": [],
+  "author": "rashid dewewe",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}
